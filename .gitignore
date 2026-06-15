@@ -15,6 +15,7 @@ build/
 # Environment / secrets
 .env
 .env.*
+!.env.example
 
 # Output drafts (generated, not source)
 output/*.txt
